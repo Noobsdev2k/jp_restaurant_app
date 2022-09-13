@@ -12,17 +12,6 @@ Japanese restaurant app is a design implementation of [Japanese restaurant app](
 ![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/japanese_restaurant_app_light.png?raw=true)
 
 
-
-
-  <br/>
-
-## GetX | Provider | Cubit | Bloc
-There are four different implementations: 1: Provider version, 2: Cubit version, 3: Bloc version, 4: GetX version <br/>
-• You can access GetX version from ```master branch``` [(here)](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/master) <br/>
-• You can access Provider version from ```provider branch``` [(here)](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/provider) <br/>
-• You can access Cubit version from ```cubit branch``` [(here)](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/cubit) <br/>
-• You can access Bloc version from ```bloc branch``` [(here)](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/bloc) <br/>
-
  <br/>
 
 ## Screenshots (Light mode)
@@ -275,15 +264,3 @@ I welcome and encourage all pull requests. It usually will take me within 48-72 
 
   <br/>
 
-
-## Created & Maintained By
-
-[SinaSys](https://github.com/SinaSys) 
-
-
-
-## My other flutter projects
-project        |
-:-------------------------|
-|[Office furniture store app](https://github.com/SinaSys/flutter_office_furniture_store_app)
-|[Ecommerce app](https://github.com/SinaSys/flutter_ecommerce_app)
